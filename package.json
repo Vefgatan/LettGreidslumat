@@ -1,6 +1,6 @@
 
   {
-      "name": "Greiðslumat og lánaskýrsla",
+      "name": "LettGreidslumat",
       "version": "0.1.0",
       "private": true,
       "dependencies": {
